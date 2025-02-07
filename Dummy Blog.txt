@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8" />
+      <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+      <title>(Meta title as provided by seo team)</title>
+      <meta content="(Meta description as provided by seo team)" name="description"/>
+      <meta content="" name="keywords" />
+      <!-- Favicons -->
+      <link href="assets/img/logoresumemakingservice.webp" rel="icon" />
+      <link href="assets/img/" rel="apple-touch-icon" />
+      <!-- Google Fonts -->
+      <link
+         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+         rel="stylesheet"
+         />
+      <!-- Vendor CSS Files -->
+      <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+      <link
+         href="assets/vendor/bootstrap/css/bootstrap.min.css"
+         rel="stylesheet"
+         />
+      <link
+         href="assets/vendor/bootstrap-icons/bootstrap-icons.css"
+         rel="stylesheet"
+         />
+      <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
+      <!--  Main CSS File -->
+      <link href="assets/css/style.css" rel="stylesheet" />
+      <script type="application/ld+json">
+    //Leave this to SEO Team
+         //   {
+         //     "@context": "https://schema.org",
+         //     "@type": "BlogPosting",
+         //     "mainEntityOfPage": {
+         //       "@type": "WebPage",
+         //       "@id": "https://www.resumemakingservice.com/best-advice-for-job-seekers"
+         //     },
+         //     "headline": "Top 10 Best Advice for Jobseekers",
+         //     "description": "Many job searchers mistakenly believe that sending their resumes to every company and applying for every post open in their field will increase their chances of finding employment. Well, that's one of their mistakes. This article contains 10 best pieces of advice for job seekers.",
+         //     "image": "https://www.resumemakingservice.com/assets/img/best-resume-advice.webp",
+         //     "author": {
+         //       "@type": "Person",
+         //       "name": "Vidhi Mishra"
+         //     },
+         //     "publisher": {
+         //       "@type": "Organization",
+         //       "name": "Resume Making Service",
+         //       "logo": {
+         //         "@type": "ImageObject",
+         //         "url": "https://www.resumemakingservice.com/assets/img/logoresumemakingservice.webp"
+         //       }
+         //     },
+         //     "datePublished": "2022-09-02"
+         //   }
+      </script>
+   </head>
+   <body>
+      <!-- ======= Header ======= -->
+      <my-header></my-header>
+    <script src="header.js"></script>
+      <!-- End Header -->
+      <!-- ======= Blog Section ======= -->
+      <br /><br /><br />
+      <div class="breadcrumbs" style="background-color: #ed502e; color: white">
+         <div class="container">
+            <br />
+            <h1 class="text-center">
+               <strong>(H1 of the new blog)</strong>
+            </h1>
+            <br />
+         </div>
+      </div>
+      <section id="articles">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="grid-container">
+                  <div class="grid-item item1">
+                     <div class="card">
+                        <img
+                           src="assets/img/(use the url to name the image for ease).svg"
+                           alt="(H1 of the new Blog)"
+                           />
+                     </div>
+                  </div>
+                  <div class="grid-item item2">
+                     <div class="card text-center">
+                        <div class="recentblog">
+                           Recent Blogs
+                           <hr />
+                        </div>
+                        <div class="card-body">
+                            
+                           <p class="card-title">
+                              <a href="(Url of the most recent blog)">
+                                  (H1 of that same recent blog)
+                                </a>
+                              <br />
+                           </p>
+                           <span class="author">
+                           <br />
+                           <i class="bi-person-fill">&nbsp;By Vidhi Mishra</i> 
+                           <br />
+                           <i class="bi-calendar3">
+                               (Date of publish of that blog. Ex:Sept 02, 2022)
+                           </i>
+                           <br />
+                           </span>
+                           
+                           <hr />
+                           
+                           <p class="card-title">
+                              <a href="(Url of the second most recent blog)">
+                                  (H1 of that same second most recent blog)
+                              </a>
+                              <br />
+                           </p>
+                           <span class="author">
+                           <br />
+                           <i class="bi-person-fill">&nbsp;By Vidhi Mishra</i><br />
+                           <i class="bi-calendar3"> 
+                           (Date of publish of that blog. Ex:Jun 17, 2022)
+                           </i>
+                           <br />
+                           </span>
+                           
+                           <hr />
+                           <a href="blog"
+                              ><button type="button mx-auto d-block" class="share-btn">
+                           Read Our Other Blogs
+                           </button></a
+                              >
+                        </div>
+                     </div>
+                  </div>
+                  <div class="grid-item item3">
+                     <div class="card">
+                        <div class="card-body">
+                           <span class="author">
+                               <i class="bi-person-fill">
+                                   &nbsp;By Vidhi Mishra</i>
+                                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                   <i class="bi-calendar3">
+                           (Date of Publish of Today's Blog. Ex:Jan 05,2023)</i>
+                           </span>
+                           <div class="ribbon"></div>
+                           <br /><br /><br />
+                           <!--Begin Your Blog From Here-->
+                           
+                           
+                           
+                           
+                           
+                           <!--End Your Blog Here-->
+                           <hr />
+                           <div class="share-btns">
+                              <p class="text-center">
+                                 If you liked our article. Then we would really appreciate
+                                 it if you were to share it on your social media and spread
+                                 the words. Thank You very much for your time.
+                              </p>
+                              <p class="text-center">
+                                 <a
+                                    href="https://twitter.com/share?url=https://www.resumemakingservice.com/(Url of new blog)"
+                                    target="_blank"
+                                    ><button class="share-btn">
+                                 <i class="bi-twitter"></i> Share on Twitter
+                                 </button></a
+                                    >
+                                 <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https://www.resumemakingservice.com/(Url of new blog)"
+                                    target="_blank"
+                                    ><button class="share-btn">
+                                 <i class="bi-facebook"></i> Share on Facebook
+                                 </button></a
+                                    >
+                                 <a
+                                    href="https://www.linkedin.com/shareArticle?url=https://www.resumemakingservice.com/(Url of new blog)"
+                                    target="_blank"
+                                    ><button class="share-btn">
+                                 <i class="bi-linkedin"></i> Share on LinkedIn
+                                 </button></a
+                                    >
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <br />
+      <!-- End Blog Section -->
+      <!-- ======= Footer ======= -->
+      <my-footer></my-footer>
+    <script src="footer.js"></script>
+      <a
+         href="#"
+         class="back-to-top d-flex align-items-center justify-content-center"
+         ><i class="bi bi-arrow-up-short"></i
+         ></a>
+      <!-- Vendor JS Files -->
+      <script src="assets/vendor/purecounter/purecounter.js"></script>
+      <script src="assets/vendor/aos/aos.js"></script>
+      <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <!-- Main JS File -->
+      <script src="assets/js/main.js"></script>
+      <?php include "chatra.php"; ?>
+   </body>
+</html>
