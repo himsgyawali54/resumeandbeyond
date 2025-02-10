@@ -1,5 +1,5 @@
- <!-- Chatra {literal} -->
- <script>
+
+
   (function(d, w, c) {
       w.ChatraID = '8yWywBxmen9MMAW6d';
       var s = d.createElement('script');
@@ -10,5 +10,4 @@
       s.src = 'https://call.chatra.io/chatra.js';
       if (d.head) d.head.appendChild(s);
   })(document, window, 'Chatra');
-</script>
-<!-- /Chatra {/literal} -->
+
