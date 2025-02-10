@@ -1,9 +1,13 @@
+
+class MySwiper extends HTMLElement {
+   connectedCallback() {
+     this.innerHTML = `
 <section>
    <div class="container">
       <div class="section-subtitle">      
          <h2>Choose Services</h2>
       </div>
-      <!-- Swiper -->
+       <!-- Swiper --> 
       <div class="swiper mySwiper">
          <div class="swiper-wrapper">
             <div class="swiper-slide">
@@ -130,3 +134,5 @@
       </div>
    </div>
 </section>
+`; } } 
+customElements.define("my-swiper", MySwiper);
