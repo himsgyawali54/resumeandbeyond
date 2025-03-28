@@ -10,10 +10,10 @@ class MyFooter extends HTMLElement {
                   <h4>Resume Making Services</h4>
                   <p class="pb-3"><em>Our Services Makes Your Professional Life Easy</em></p>
                   <p>
-                  71-75, Shelton Street, Covent Garden,<br> London, WC2H 9JQ,<br>
-                      UNITED KINGDOM<br><br>
-                     <strong>Phone:</strong> <a href="tel:+46764363833">+46764363833</a><br>
-                     <strong>Email:</strong> <a href="mailto:info@resumemakingservices.com">info@resumemakingservices.com</a><br>
+                  City Road, London, United Kingdom<br>
+                      <br>
+                     <strong>Phone:</strong> <a href="tel:+977 9808853822">+977-9808853822</a><br>
+                     <strong>Email:</strong> <a href="mailto:info@resumeandbeyond.com">info@resumeandbeyond.com</a><br>
                   </p>
                   <div class="social-links mt-3">
                      <a href="https://www.facebook.com/resumemakingservices/?ref=pages_you_manage" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>

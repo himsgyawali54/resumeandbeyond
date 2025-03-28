@@ -1071,7 +1071,7 @@ td h3 {
   width: fit-content;
   border-radius: 10px;
   border: none;
-  background: #ed502e;
+  background: #088992;
   padding: 0.8rem;
   font-size: 1.1rem;
 }
@@ -1304,7 +1304,7 @@ td h3 {
   font-size: 80px;
 }
 #resumeprice .box .days {
-  background: #ed3c0d;
+  background: #088992;
   height: 10vh;
   color: #fff;
   border-radius: 0.625rem;
@@ -1404,8 +1404,8 @@ td h3 {
   padding: 1%;
 }
 .hero-btn:hover {
-  background: rgb(45, 170, 45);
-  border: 1px solid rgb(45, 170, 45);
+  background: #088992;
+  border: 1px solid #088992;
 }
 /*--------------------------------------------------------------
 #  SOP SERVICES section
@@ -1523,7 +1523,7 @@ td h3 {
 }
 #footer .footer-top .social-links a:hover {
   color: #fff;
-  background: #ed502e;
+  background: #088992;
   text-decoration: none;
 }
 #footer .footer-top h4 {
@@ -1543,7 +1543,7 @@ td h3 {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ef6445;
+  color: #e8a99a;
   font-size: 18px;
   line-height: 1;
 }
@@ -1562,7 +1562,7 @@ td h3 {
   line-height: 1;
 }
 #footer .footer-top .footer-links ul a:hover {
-  color: #ef6445;
+  color: #088992;
 }
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;

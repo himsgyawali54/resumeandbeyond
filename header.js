@@ -5,7 +5,7 @@ class MyHeader extends HTMLElement {
  
 <header id="header" class="sticky-top">
     <div class="container d-flex align-items-center justify-content-between">
-        <span class="logo"><a href="/"><img src="assets/img/resume-beyond-logo.webp" alt="logo"></a></span>
+        <span class="logo"><a href="/"><img src="assets/img/resume-beyond-logo.png" alt="logo"></a></span>
           <nav id="navbar" class="navbar">
             <ul>
               <li><a class="nav-link scrollto" href="/">Home</a></li>
@@ -28,7 +28,7 @@ class MyHeader extends HTMLElement {
               <li><a class="nav-link scrollto" href="pricing">Pricing</a></li>
               <li><a class="nav-link scrollto" href="blog">Blog</a></li>
               <li><a class="nav-link scrollto" href="/#contact">Contact</a></li>
-              <li><a class="getstarted scrollto" href="tel:+61 480 005 916" target="_blank"><i class="bx bx-phone-call " style="font-size: 30px;"></i> +46764363833</a></li>
+              <li><a class="getstarted scrollto" href="tel:+977 9808853822" target="_blank"><i class="bx bx-phone-call " style="font-size: 30px;"></i> +977-9808853822</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
           </nav>
